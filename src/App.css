@@ -165,6 +165,16 @@ input[type="number"] {
   opacity: 1;
 }
 
+.error {
+  color: #c0392b;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #f5c6cb;
+}
+
 @media (max-width: 320px) {
   .container {
     width: 300px;
